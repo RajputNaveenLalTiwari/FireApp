@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FireApp</string>
+    <string name="send_data">Add Value To FireBase</string>
+</resources>
